@@ -23,3 +23,5 @@ price_disc = discounted (price, discount)
 print(price_disc)
 print(discounted (100, 50))
 print(discounted (100, 100, max_discount = 500))
+
+print ("Hello, world!")
