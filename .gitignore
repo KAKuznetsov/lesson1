@@ -1,1 +1,6 @@
 *.pdf
+.venv
+.venv\
+bot.log
+settings.py
+mybot\__pycache__
