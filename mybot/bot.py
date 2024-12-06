@@ -31,7 +31,7 @@ async def greeting_user(update: Update, context: ContextTypes.DEFAULT_TYPE) -> N
     ) 
 
 def main():
-    # mybot = Updater("7763073155:AAHEGUrWMQpJU0B9YQOWGez_BoLsQoOsjms")
+    # mybot = Updater("settings.API_KEY")
     
     # Регулярные частые обращения за обновлениями, несколько раз в секунду
     # mybot.start_polling()
